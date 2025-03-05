@@ -9,3 +9,6 @@ please keep in mind this is still being developed and while there is currently n
 this is all open source but i would not recommend touching the code unless you KNOW WHAT YOU ARE DOING OTHERWISE YOU MAY BE BANNED🚫
 
 # DO NOT TOUCH THE CODE IF YOU DO NOT KNOW WHAT YOU ARE DOING. I AM NOT RESPONSIBLE FOR THE LOSS OF YOUR ACCOUNT BY USING THIS PROGRAM‼‼
+
+Short demo here (only some of the features work. very buggy would not recommend for autofarming)
+https://youtu.be/9bLuohaJXR0
