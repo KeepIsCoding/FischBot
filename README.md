@@ -1,5 +1,5 @@
 # ⭐FischBot⭐
-## Download our first release HERE(https://github.com/KeepIsCoding/FischBot/releases/tag/fisch))
+## Download our first release HERE((https://github.com/KeepIsCoding/FischBot/releases/tag/fisch))
 Open source AI external autofish and autoreel made by me :) feel free to leave a star i will be pushing more updates in the future! 🐟🐟
 
 
